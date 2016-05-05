@@ -1,0 +1,8 @@
+1、如何分析动画效果 
+2、如何使用@font-face引入自定义的字体 
+3、如何使用transform变换实现平移、旋转 
+4、如何使用transition实现过渡动画 
+5、如何使用animaition和keyframes定义动画
+
+什么时候用transition，什么时候用animation
+当需要触发条件时用transition，不需要触发是用animation
